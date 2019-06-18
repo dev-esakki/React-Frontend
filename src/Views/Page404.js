@@ -1,5 +1,5 @@
-import React, { Component } from 'react';
-import {  Col, Container, Input, InputGroup, InputGroupAddon, InputGroupText, Row } from 'reactstrap';
+import React from 'react';
+import {  Col, Container, InputGroup, InputGroupAddon, Row } from 'reactstrap';
 import Button  from '@material-ui/core/Button';
 import TextField from '@material-ui/core/TextField';
 import { makeStyles } from '@material-ui/core/styles';
